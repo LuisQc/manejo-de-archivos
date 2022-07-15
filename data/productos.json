@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Coca Cola",
+        "price": 2.50,
+        "thumbnail": "'https://www.cocacola.es/content/dam/one/es/es2/coca-cola/products/productos/dic-2021/CC_Origal.jpg'",
+        "id": 1
+    },
+    {
+        "title": "Inca Cola",
+        "price": 3.50,
+        "thumbnail": "'https://lacopabrava.com/wp-content/uploads/2022/02/INCA-KOLA-600ML.jpg'",
+        "id": 2
+    },
+    {
+        "title": "Pepsi",
+        "price": 2.50,
+        "thumbnail": "https://plazavea.vteximg.com.br/arquivos/ids/419101-1000-1000/20073195.jpg?v=637372712433570000",
+        "id": 3
+    }
+
+]
